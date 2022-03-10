@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8izU1hRAzZyRGS9XO26byAoNm+b7pXgpb3BTrmbXTevE4m4lZ6fjgORDYPu7mN+70HaA4Xt6m9XUsW8rUk7Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Олег\\Desktop\\work\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Олег\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Олег\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
